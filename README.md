@@ -1,8 +1,8 @@
 <h1 align="center">In the name of God :)</h1>
 
-- **🌱 Beautiful Weather App :)**
+- **🌱 Beautiful Weather App :)** 
 
--  **🆓 Free to the public**
+-  **🆓 Free to the public** 
  
 <hr>
 

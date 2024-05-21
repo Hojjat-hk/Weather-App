@@ -6,7 +6,7 @@
  
 <hr>
 
-**🛠️ Attributes:**
+**🛠️ Attributes:** 
 <br>
 <ul>
   <li>This program provides you with all the information according to reliable and up-to-date sources.</li>

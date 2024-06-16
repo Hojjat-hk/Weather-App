@@ -6,7 +6,7 @@ const $ = document;
 // [+] Define Variable
 const loadingSection   = $.querySelector(".loading");
 const searchInput      = $.querySelector(".search-box__input");
-const searchButton     = $.querySelector(".search-box__button");
+const searchButton     = $.querySelector(".search-box__button"); 
 const weatherLocation  = $.querySelector(".weather-content__location");
 const weatherTime      = $.querySelector(".weather-content__time");
 const weatherTemp      = $.querySelector(".weather-content__temp");
